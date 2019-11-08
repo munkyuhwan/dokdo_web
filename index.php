@@ -1,4 +1,6 @@
 <?php
+
+$dd=1;
 ?>
 <!DOCTYPE html>
 <html lang="ko">
