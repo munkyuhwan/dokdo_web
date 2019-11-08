@@ -1,6 +1,7 @@
 <?php
 
 $dd=1;
+$ff=2;
 ?>
 <!DOCTYPE html>
 <html lang="ko">
